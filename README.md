@@ -1,2 +1,2 @@
 # TerraformScripts
-Terraform Learning Scripts
+Terraform Learning Scripts for beginner
